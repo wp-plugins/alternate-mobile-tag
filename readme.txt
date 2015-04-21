@@ -73,14 +73,14 @@ Use plugin support button in WordPress.org extended listing.
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.1 - 2015-04-21 =
 * Initial release
 
 
 
 == Upgrade Notice ==
 
-= 1.0.0 =
+= 1.1 =
 * Initial release
 
 
